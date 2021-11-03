@@ -6,7 +6,7 @@ For day one, you will need to have QGIS version 3.12 or newer installed on your 
 Installer:
 https://qgis.org/en/site/forusers/index.html
 
-1. Click download
+1. Click "Get the installer"
 2. Expand the section for you operating system
 3. Choose version 3.22 (Windows users: standalone installer, not Network installer)
 
