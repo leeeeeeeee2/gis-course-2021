@@ -10,6 +10,9 @@ https://qgis.org/en/site/forusers/index.html
 2. Expand the section for you operating system
 3. Choose version 3.22 (Windows users: standalone installer, not Network installer)
 
+You can download the files we will be using from this link:<br>
+https://git.app.uib.no/uib-ub/d-lab/gis-course-2021/-/raw/master/day_1/QGIS_DLAB.zip
+
 
 ## Preparation day 2: Google Colab
 <p>No installation is required for day two, but you will need a google/gmail-account to sign in to Google Colab.</p>
