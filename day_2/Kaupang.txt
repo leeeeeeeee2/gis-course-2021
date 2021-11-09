@@ -1,0 +1,11 @@
+﻿ID	Stadnamn	Lokalitetstype	Herred	Amt	X	Y	Koordinat_type	Lenke_til_ originalside	SNID
+8083	Bjørkomp	Gard	Nes	Akershus	11.3305018960976	60.2242848303219	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2009052210001?page=352	SNID-NO-0008600119054
+13526	Koppang	Gard	Stor-Elvedalen	Hedemarken	10.9854195025917	61.6177745760472	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011810001?page=376	SNID-NO-0008600122772
+23208	Kaupang	Gard	Hol	Buskerud	8.18955486782024	60.564765712707	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011512004?page=189	SNID-NO-0008600128351
+25498	Kopangen nordre	Gard	Flesberg	Buskerud	9.60910814262599	59.8067641418662	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011512004?page=439	SNID-NO-0008600129692
+26242	Koppangen	Bruk	Skoger	Jarlsberg og Larvik	10.1299685978059	59.7270421891121	Hovedteigcentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008010710001?page=39	SNID-NO-0008600194890
+26601	Kaupang	Gard	Botne	Jarlsberg og Larvik	10.2470983109913	59.4536400447639	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008010710001?page=85	SNID-NO-0008600130420
+28595	Kaupang søndre	Gard	Tjølling	Jarlsberg og Larvik	10.0972944316118	59.0327397357034	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008010710001?page=307	SNID-NO-0008600131797
+28614	Kaupang nordre	Gard	Tjølling	Jarlsberg og Larvik	10.1037834796762	59.0384658489619	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008010710001?page=310	SNID-NO-0008600131814
+46953	Kaupanger	Sokn	Sogndal	Nordre Bergenhus	7.23339962684505	61.1842080052822	Lokalitetspunkt, Statens kartverk	https://www.nb.no/items/URN:NBN:no-nb_digibok_2006120601007?page=122	SNID-000SK10098468
+46971	Kaupanger	Gard	Sogndal	Nordre Bergenhus	7.21111047440183	61.1724741579084	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2006120601007?page=124	SNID-NO-0008600144454

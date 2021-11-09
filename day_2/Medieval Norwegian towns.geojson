@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "Medieval Norwegian towns",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Steinkjer", "begin": null, "end": null, "type": "3" }, "geometry": { "type": "Point", "coordinates": [ 11.502920167963591, 64.014418812937876, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Trondheim", "begin": null, "end": null, "type": "1" }, "geometry": { "type": "Point", "coordinates": [ 10.3950528, 63.4305149, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Bergen", "begin": null, "end": null, "type": "1" }, "geometry": { "type": "Point", "coordinates": [ 5.3220544, 60.3912628, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Stavanger", "begin": null, "end": null, "type": "1" }, "geometry": { "type": "Point", "coordinates": [ 5.7331074, 58.9699756, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Skien", "begin": null, "end": null, "type": "1" }, "geometry": { "type": "Point", "coordinates": [ 9.6127694, 59.1881606, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Tønsberg", "begin": null, "end": null, "type": "1" }, "geometry": { "type": "Point", "coordinates": [ 10.3037633, 59.364988, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Konghelle", "begin": null, "end": null, "type": "1" }, "geometry": { "type": "Point", "coordinates": [ 11.8281585, 57.8891234, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Sarpsborg", "begin": null, "end": null, "type": "1" }, "geometry": { "type": "Point", "coordinates": [ 11.1094028, 59.2840729, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Oslo", "begin": null, "end": null, "type": "1" }, "geometry": { "type": "Point", "coordinates": [ 10.7522454, 59.9138688, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Hamar", "begin": null, "end": null, "type": "1" }, "geometry": { "type": "Point", "coordinates": [ 11.0679977, 60.7945331, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Veøy", "begin": null, "end": null, "type": "2" }, "geometry": { "type": "Point", "coordinates": [ 7.4248395, 62.6705617, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Borgund", "begin": null, "end": null, "type": "2" }, "geometry": { "type": "Point", "coordinates": [ 6.235138538916, 62.466951888975998, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kaupanger", "begin": null, "end": null, "type": "2" }, "geometry": { "type": "Point", "coordinates": [ 7.2424074, 61.1846111, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Marstrand", "begin": null, "end": null, "type": "2" }, "geometry": { "type": "Point", "coordinates": [ 11.5967453, 57.8884502, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Vågan", "begin": null, "end": null, "type": "3" }, "geometry": { "type": "Point", "coordinates": [ 14.4433833, 68.2322162, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Lillehammer", "begin": null, "end": null, "type": "3" }, "geometry": { "type": "Point", "coordinates": [ 10.4662306, 61.1152713, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Arendal", "begin": null, "end": null, "type": "3" }, "geometry": { "type": "Point", "coordinates": [ 8.7724499, 58.4617568, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Frösön", "begin": null, "end": null, "type": "3" }, "geometry": { "type": "Point", "coordinates": [ 14.5293005, 63.1958424, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kopervik", "begin": null, "end": null, "type": "3" }, "geometry": { "type": "Point", "coordinates": [ 5.306874, 59.2837067, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Komnes", "begin": null, "end": null, "type": "3" }, "geometry": { "type": "Point", "coordinates": [ 9.9183731, 59.5061071, 0.0 ] } }
+]
+}

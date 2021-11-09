@@ -1,0 +1,15 @@
+﻿ID	Stadnamn	Lokalitetstype	Herred	Amt	X	Y	Koordinat_type	Lenke_til_ originalside	SNID
+630	Torget	Bruk	Spydeberg	Smaalenene	11.1000106586397	59.6047936262212	Kartverket Adressepunkt	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011010007?page=69	SNID-NO-0008600161015
+1643	Torget	Bruk	Eidsberg	Smaalenene	11.2852733638567	59.4931083990305	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011010007?page=158	SNID-NO-0008600161519
+4867	Torget	Bruk	Kraakstad	Akershus	10.9363538448481	59.6806508616095	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2009052210001?page=49	SNID-NO-0008600163835
+12951	Torge	Gard	Elverum	Hedemarken	11.7032359535967	60.9839647845649	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011810001?page=336	SNID-NO-0008600122455
+18859	Torget	Bruk	Vestre Toten	Kristians	10.746789877786	60.6846655140152	Kartverket Adressepunkt	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008013012001?page=114	SNID-NO-0008600183521
+21665	Bjørke vestre med Torget	Gard	Hole	Buskerud	10.3485360352578	60.077704066071	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011512004?page=21	SNID-NO-0008600127654
+42721	Torge	Gard	Fitje	Søndre Bergenhus	5.0962981776719	59.8955029100824	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011710002?page=175	SNID-NO-0008600140808
+59317	Torget	Gard	Hegre	Nordre Trondhjem	11.1098680107948	63.495593141102	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011012001?page=29	SNID-NO-0008600153323
+63418	Torget indre	Gard	Brønnø	Nordland	12.089772382228	65.4080950097378	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2018021948007?page=45	SNID-NO-0008600156324
+63422	Torgværet	Bruk	Brønnø	Nordland	12.0394166271961	65.3841724840711	Kartverket Adressepunkt	https://www.nb.no/items/URN:NBN:no-nb_digibok_2018021948007?page=45	SNID-NO-0008600222564
+63423	Torget ytre	Gard	Brønnø	Nordland	12.0580799499103	65.430637799436	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2018021948007?page=46	SNID-NO-0008600156325
+63435	Torgnes	Namnegard	Brønnø	Nordland	12.124382678417749	65.498232289675101	Namnegardcentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2018021948007?page=47	SNID-NO-0009700012137
+67182	Voktor	Gard	Kvæfjord	Tromsø	16.294846495772	68.7298602185357	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2015012708086?page=23	SNID-NO-0008600225259
+67255	Sandtorv	Gard	Trondenes	Tromsø	16.500564596688779	68.574951296898178	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2015012708086?page=31	SNID-NO-0008600225305

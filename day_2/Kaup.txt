@@ -1,0 +1,19 @@
+﻿ID	Stadnamn	Lokalitetstype	Herred	Amt	X	Y	Koordinat_type	Lenke_til_ originalside
+1943	Kaatorp	Gard	Rødenes	Smaalenene	11.6026588290836	59.5052391799342	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011010007?page=182
+4117	Kaupanes fioll	Forsv. lokalitet	Moss	Smaalenene	10.6966008642433	59.4519875637831	Kommunecentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011010007?page=371
+8432	Kommesrud	Gard	Eidsvold	Akershus	11.2387218408438	60.3448681953865	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2009052210001?page=387
+9199	Kommerstad	Gard	Ringsaker	Hedemarken	10.867748326	60.902108282	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011810001?page=32
+23457	Kopseng	Gard	Sigdal	Buskerud	9.38964611349972	60.1950471730674	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011512004?page=214
+24167	Kofstad	Gard	Øvre Eker	Buskerud	9.72390138425121	59.6907207158433	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011512004?page=296
+25013	Komnes	Gard	Ytre Sandsvær	Buskerud	9.93319090954302	59.532009399165	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011512004?page=392
+26334	Kopstad	Gard	Sande	Jarlsberg og Larvik	10.1961181046318	59.6249906510327	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008010710001?page=49
+26446	Kommersøen	Gard	Sande	Jarlsberg og Larvik	10.3200061973051	59.5230974284335	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008010710001?page=61
+32042	Kopsland	Gard	Gransherred	Bratsberg	9.07521108530626	59.7152242639127	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2006120600018?page=312
+33413	i Kaupakre a Smerkleppær	Forsv. lokalitet	Vinje	Bratsberg	7.54354112544091	59.7338974305969	Kommunecentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2006120600018?page=469
+40996	Kopervik	Herad/sokn	Kopervik	Stavanger	5.30454028645497	59.2818683209288	Lokalitetspunkt, Statens kartverk	https://www.nb.no/items/URN:NBN:no-nb_digibok_2006120801094?page=410
+43683	Kausland	Gard	Sund	Søndre Bergenhus	5.0452511166411	60.2261159504557	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2008011710002?page=285
+46966	Kjøbstad	Gard	Sogndal	Nordre Bergenhus	7.27578719149071	61.2384918707702	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2006120601007?page=123
+47738	Kjøpstad	Gard	Hyllestad	Nordre Bergenhus	5.06875425354114	61.2342794504068	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2006120601007?page=246
+51794	Kjøpstad	Gard	Sylte	Romsdal	7.12713218948891	62.5524582668719	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2010070605135?page=230
+65008	Kjøpstad	Gard	Gildeskaal	Nordland	14.2635861439989	67.0630922970082	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2018021948007?page=206
+65900	Kjøbsvik	Gard	Tysfjorden	Nordland	16.362814935	68.095277457	Gardnummercentroide, Språksamlingane	https://www.nb.no/items/URN:NBN:no-nb_digibok_2018021948007?page=296
