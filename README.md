@@ -13,6 +13,9 @@ https://qgis.org/en/site/forusers/index.html
 You can download the files we will be using from this link:<br>
 https://git.app.uib.no/uib-ub/d-lab/gis-course-2021/-/raw/master/day_1/QGIS_DLAB.zip
 
+Tutorial: 
+https://git.app.uib.no/uib-ub/d-lab/gis-course-2021/-/raw/master/day_1/Very_concise_instruction_for_QGIS.pdf?inline=false
+
 
 ## Preparation day 2: Google Colab
 <p>No installation is required for day two, but you will need a google/gmail-account to sign in to Google Colab.</p>
