@@ -13,7 +13,7 @@ https://qgis.org/en/site/forusers/index.html
 You can download the files we will be using from this link:<br>
 https://git.app.uib.no/uib-ub/d-lab/gis-course-2021/-/raw/master/day_1/QGIS_DLAB.zip
 
-Tutorial: 
+## Tutorial day 1
 https://git.app.uib.no/uib-ub/d-lab/gis-course-2021/-/raw/master/day_1/Very_concise_instruction_for_QGIS.pdf?inline=false
 
 
