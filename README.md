@@ -26,6 +26,6 @@ https://colab.research.google.com/drive/1uq65ijesA4uPj1A3FeGF4lUd2q7bYNLX?usp=sh
 Don't worry if you get error messages and are unable to complete the tutorial. We will explain any error messages and go through the tutorial step by step in the first session.</p>
 
 ## Notebooks day 2
-[Geopandas](https://colab.research.google.com/drive/16kP9JWUnpxRTdsZEMtqbyN7qRqPfCPpp?usp=sharing)
+[Geopandas](https://colab.research.google.com/drive/16kP9JWUnpxRTdsZEMtqbyN7qRqPfCPpp?usp=sharing)<br>
 [Folium](https://colab.research.google.com/drive/1RL1yig4x6C0BWAhslIYHiiN3n5Vk1-Hs?usp=sharing)
 
