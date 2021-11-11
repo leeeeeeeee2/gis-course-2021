@@ -13,8 +13,12 @@ https://qgis.org/en/site/forusers/index.html
 You can download the files we will be using from this link:<br>
 https://git.app.uib.no/uib-ub/d-lab/gis-course-2021/-/raw/master/day_1/QGIS_DLAB.zip
 
-## Tutorial day 1
-https://git.app.uib.no/uib-ub/d-lab/gis-course-2021/-/raw/master/day_1/Very_concise_instruction_for_QGIS.pdf?inline=false
+## Lesson material day 1
+[Instructions, QGIS (Peder Gammeltoft)](https://git.app.uib.no/uib-ub/d-lab/gis-course-2021/-/raw/master/day_1/Very_concise_instruction_for_QGIS.pdf?inline=false)
+
+[Slides, QGIS (Peder Gammeltoft)](https://git.app.uib.no/uib-ub/d-lab/gis-course-2021/-/raw/master/day_1/20211109_GIS_Intro.pdf)
+
+[Tutorial/demo, Geonorge API (based on code by Arne Solli)](https://colab.research.google.com/drive/1-jdIxHJEcAXCzENYRhYzdJcQnLdjgUKU?usp=sharing)
 
 
 ## Preparation day 2: Google Colab
